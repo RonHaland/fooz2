@@ -14,7 +14,7 @@
   "dependencies": {
     "@neondatabase/serverless": "^0.10.4",
     "drizzle-orm": "^0.40.1",
-    "next": "15.2.3",
+    "next": "15.2.8",
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
